@@ -154,3 +154,18 @@ h3{
     float: left;
     margin: 1%; 
 }
+
+/* CSS for FOOD Menu */
+
+.food-menu{
+    background-color: rgb(233, 196, 106);
+    padding: 4% 0;
+}
+
+.food-menu-box{
+    border: 1px, solid, black;
+    width: 45%;
+    margin: 1%;
+    float: left;
+    padding: 1%;
+}
